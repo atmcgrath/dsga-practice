@@ -12,3 +12,13 @@ Tuesdays 10:00-12:00 Spring 2021
 - *Debates in Digital Humanities* (2019)
 
 ### 2. Computational methods
+
+- [Journal of Cultural Analytics](https://culturalanalytics.org/)
+
+### 3. Humanities data 
+
+### 4. Public humanities
+
+## Assignments
+- Weekly response papers
+- Weekly assignments tbd
